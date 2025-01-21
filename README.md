@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/estakidev/estakidev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EstakiDev/EstakiDev/output/snake.svg" alt="Snake animation" />
 
 ###
