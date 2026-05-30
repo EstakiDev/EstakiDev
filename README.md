@@ -3,7 +3,7 @@
 ###
 
 <br clear="both">
-
+<p>Android Developer with 3+ years of experience delivering and maintaining 6 large-scale enterprise applications used across 10+ electricity distribution companies. Specialized in offline-first architecture, Persian/RTL UI, GPS, Bluetooth hardware integration, and performance optimization — achieving 30% faster performance and 60% fewer crashes through structured refactoring and modularization. Deep expertise in Kotlin, Jetpack Compose, Clean Architecture, and multi-module design. Experienced in migrating legacy Java/SQLite codebases to modern Kotlin + Room with zero data loss. Active core member of an Android team with a strong track record of cross-functional collaboration — working closely with backend, product, and QA teams on API design, domain modeling, and requirement gathering. Familiar with Flutter/Dart, Docker, GitHub, and GitLab.</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=estakidev&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estakidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
