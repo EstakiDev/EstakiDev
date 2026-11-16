@@ -1,65 +1,52 @@
-<h2 align="left">Hi 👋! My name is Mohammad Estaki and I'm a pasinate Android native developer from Iran</h2>
+<h1 align="center">Hi, I'm Houmaan Estaki 👋</h1>
+<h3 align="center">Android Architect & Problem Solver</h3>
 
-###
+<p align="center">
+  <b>Building robust, high-performance Android applications with clean architecture and a passion for excellence.</b>
+</p>
 
-<br clear="both">
-<p>Android Developer with 3+ years of experience delivering and maintaining 6 large-scale enterprise applications used across 10+ electricity distribution companies. Specialized in offline-first architecture, Persian/RTL UI, GPS, Bluetooth hardware integration, and performance optimization — achieving 30% faster performance and 60% fewer crashes through structured refactoring and modularization. Deep expertise in Kotlin, Jetpack Compose, Clean Architecture, and multi-module design. Experienced in migrating legacy Java/SQLite codebases to modern Kotlin + Room with zero data loss. Active core member of an Android team with a strong track record of cross-functional collaboration — working closely with backend, product, and QA teams on API design, domain modeling, and requirement gathering. Familiar with Flutter/Dart, Docker, GitHub, and GitLab.</p>
+---
+
+### 🚀 About Me
+With over 3 years of experience in the enterprise sector, I specialize in transforming complex business requirements into scalable mobile solutions. I've successfully delivered 6 large-scale applications for electricity distribution companies, focusing on **offline-first capabilities**, **RTL/Persian UI excellence**, and **hardware integration**.
+
+**Why work with me?**
+*   **Performance-Driven:** Proven track record of boosting performance by 30% and reducing crashes by 60% through modularization and refactoring.
+*   **Legacy Modernization:** Expert in safely migrating Java/SQLite codebases to modern Kotlin + Room architectures.
+*   **Team Player:** Deeply experienced in collaborative environments, bridging the gap between design, backend API logic, and product requirements.
+
+---
+
+### 🛠 Tech Stack & Tools
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estakidev&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estakidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,dart,sqlite,spring,docker,github,gitlab,figma,postman" />
 </div>
 
-###
+---
 
-<img align="right" height="0" src=""  />
+### 📈 GitHub Insights
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=estakidev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estakidev&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohammad-estaki-b390aa138/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21835139/mohammad-estaki" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://t.me/android_developerr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="mailto: estaki.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+### 🐍 Activity
+<div align="center">
+  <img src="https://github.com/EstakiDev/EstakiDev/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-###
+---
 
-<img src="https://github.com/EstakiDev/EstakiDev/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 📬 Let's Connect
+I'm always open to discussing new projects, technical challenges, or simply sharing knowledge about Android development.
 
-###
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-estaki-b390aa138/" target="_blank">LinkedIn</a> |
+  <a href="https://stackoverflow.com/users/21835139/mohammad-estaki" target="_blank">StackOverflow</a> |
+  <a href="https://t.me/android_developerr" target="_blank">Telegram</a> |
+  <a href="mailto:estaki.dev@gmail.com" target="_blank">Email</a>
+</div>
